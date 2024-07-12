@@ -1,5 +1,5 @@
-# Spectral Pooling for Variable-length Time-series Classification: Novel Strategy, Benchmarking and Analysis
-We present the first comprehensive variable TSC benchmark, which evaluates the effectiveness of our SP and 22 widely-used length normalization strategies based on 14 publicly available variable-length TSC datasets on baselines. 
+# Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy
+We present the first comprehensive benchmark for variable-length time series classification tasks, evaluating the effectiveness of 22 previously widely-used length normalization methods across 14 publicly available VTS datasets and 8 backbones.
 
 # Baseline Model
 - **MLP** - Time series classification from scratch with deep neural networks: A strong baseline [\[IJCNN 2017\]](https://arxiv.org/pdf/1611.06455.pdf)[\[Code\]](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)

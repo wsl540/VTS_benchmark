@@ -1,4 +1,4 @@
-# Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy
+# Deep Learning-based Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy
 We present the first comprehensive benchmark for variable-length time series classification tasks, evaluating the effectiveness of 22 previously widely-used length normalization methods across 14 publicly available VTS datasets and 8 backbones.
 
 # Baseline Model

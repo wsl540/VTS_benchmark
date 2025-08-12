@@ -1,5 +1,7 @@
-# Deep Learning-based Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy
-We present the first comprehensive benchmark for variable-length time series classification tasks, evaluating the effectiveness of 22 previously widely-used length normalization methods across 14 publicly available VTS datasets and 8 backbones.
+# Variable-length Time Series Classification: Benchmarking, Analysis and Effective Spectral Pooling Strategy
+We present the first comprehensive benchmark for variable-length time series classification tasks, evaluating the effectiveness of 22 previously widely-used length normalization methods across 14 publicly available VTS datasets and 8 backbones, and propose a novel spectral pooling layer to process variable-length time series.
+
+
 
 # Baseline Model
 - **MLP** - Time series classification from scratch with deep neural networks: A strong baseline [\[IJCNN 2017\]](https://arxiv.org/pdf/1611.06455.pdf)[\[Code\]](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline)
